@@ -20,3 +20,6 @@
  assuming_direct_control_achievement_flag:0 "Nous avons pris la tête de la faction dirigée auparavant par [ENG.GetLeLaLNP] §Y[ENG.GetName]§!, [GER.GetLeLaLNP] §Y[GER.GetName]§! ou [SOV.GetLeLaLNP] §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "La rébellion de Boston a éclaté.\n"
  putting_the_raid_on_the_medway_to_shame_tt:0 "Pour n'importe quel pays :\nle pays originel est [ENG.GetLeLaLNP] [ENG.GetName] ;\nau plus §Y0 navire capital§!."
+ borbon_stuff_tt:0 "L'ensemble de la France a été conquis."
+ die_albion_tt:0 "L'ensemble de la Grande-Bretagne et de l'Irlande du Nord a été conquis."
+ portugal_macau_my_day_tt:0 "Un gouvernement de collaboration a été formé à Macao, qui possède tous les territoires nationaux de Chine et du Mandchoukouo."

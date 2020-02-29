@@ -1567,6 +1567,36 @@ country_event = {
 				white_peace = ROOT
 			}
 		}
+		hidden_effect = {
+			set_truce = {
+				target = PRC
+				days = 730
+			}
+			set_truce = {
+				target = CHI
+				days = 730
+			}
+			set_truce = {
+				target = XSM
+				days = 730
+			}
+			set_truce = {
+				target = SHX
+				days = 730
+			}
+			set_truce = {
+				target = GXC
+				days = 730
+			}
+			set_truce = {
+				target = YUN
+				days = 730
+			}
+			set_truce = {
+				target = SIK
+				days = 730
+			}
+		}
 	}
 }
 

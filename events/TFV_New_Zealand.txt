@@ -166,4 +166,28 @@ country_event = {
 	}
 }
 
+country_event = { #Polynesia annexes NZL for Polynesian Empire game rule
+	id = tfv_new_zealand.8
+	title = tfv_new_zealand.8.t
+	desc = tfv_new_zealand.8.desc
+	picture = GFX_report_event_generic_funeral
+
+	is_triggered_only = yes
+	
+	hidden = yes
+	
+	#ok I guess
+	option = {
+		NZL = {
+			transfer_units_fraction = {
+				target = PREV
+				size = 1
+			}
+		}
+		annex_country = {
+			target = NZL
+		}
+	}
+}
+
 

@@ -1255,3 +1255,9 @@
 		
 		scale = 1		
 	}
+	
+	# CLONE ARMORED CAR
+	entity = {
+		name = "armored_car_entity"
+		clone = "USA_mechanized_entity"
+	}

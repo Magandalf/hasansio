@@ -109,3 +109,11 @@ animation = {
 	name = "fighter_3_vs_fighter_3_fail_animation"
 	file = "fighter_3_vs_fighter_3_fail.anim"
 }
+animation = {
+	name = "scout_3_patrol_animation"
+	file = "fighter_3_patrol.anim"
+}
+animation = {
+	name = "scout_1_patrol_animation"
+	file = "fighter_1_patrol.anim"
+}

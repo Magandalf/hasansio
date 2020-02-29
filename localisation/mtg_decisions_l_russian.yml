@@ -135,6 +135,8 @@
  USA_use_huac:0 "Расследовать деятельность оппозиции"
  USA_beat_up_opposition:0 "Запугать политических противников"
  USA_CSA_set_up_provisional_government:0 "Создать временное правительство штата"
+ USA_CSA_set_up_provisional_government2:0 "Создать временное правительство региона"
+ USA_CSA_set_up_provisional_government3:0 "Создать временное правительство региона"
  USA_statehood_for_puerto_rico:0 "Сделать Пуэрто-Рико штатом"
  USA_statehood_for_alaska:0 "Сделать Аляску штатом"
  USA_statehood_for_hawaii:0 "Сделать Гавайи штатом"

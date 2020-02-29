@@ -20,3 +20,6 @@
  assuming_direct_control_achievement_flag:0 "Assumiu a liderança da facção de §Y[ENG.GetName]§!, §Y[GER.GetName]§!, ou §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "A Rebelião de Boston começou.\n"
  putting_the_raid_on_the_medway_to_shame_tt:0 "Qualquer país:\nO país original é [ENG.GetName]\nPelo menos §Y0 capitanias§!"
+ borbon_stuff_tt:0 "Conquistar toda a França."
+ die_albion_tt:0 "Conquistas toda a Grã-Bretanha e a Irlanda do Norte."
+ portugal_macau_my_day_tt:0 "Criar uma colaboração governamental em Macau e possuir todo território de núcleo da China e Manchukuo com ela."

@@ -503,18 +503,25 @@ MEX_category_military_issues = {
 			NOT = { has_completed_focus = MEX_focus_falangist_veterans }
 
 			FROM = {
-				has_government = communism
+				OR = {
+					has_government = communism
+					has_government = democratic
+				}
 				has_civil_war = yes
 				NOT = { has_war_with = ROOT }
 			}
 		}
 
-		targets = { SPR D01 D02 D03 D04 D05 D06 D07 D08 D09 D10 D11 D12 D13 D14 D15 }
+		targets = { SPR SPD }
+		targets_dynamic = yes
 
 		target_trigger = {
 			FROM = {
 				original_tag = SPR
-				has_government = communism
+				OR = {
+					has_government = communism
+					has_government = democratic
+				}
 				has_civil_war = yes
 			}
 		}
@@ -600,7 +607,8 @@ MEX_category_military_issues = {
 			}
 		}
 		
-		targets = { SPR D01 D02 D03 D04 D05 D06 D07 D08 D09 D10 D11 D12 D13 D14 D15 }
+		targets = { SPR }
+		targets_dynamic = yes
 
 		target_trigger = {
 			FROM = {

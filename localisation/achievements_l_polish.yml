@@ -20,3 +20,6 @@
  assuming_direct_control_achievement_flag:0 "Przejmuje przywództwo frakcji po: §Y[ENG.GetName]§!, §Y[GER.GetName]§! albo §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "Rozpoczął się bunt w Bostonie.\n"
  putting_the_raid_on_the_medway_to_shame_tt:0 "Dowolny kraj:\nPierwotny kraj to [ENG.GetName]\nMaksymalna liczba okrętów: §Y0 Capital Ship§!"
+ borbon_stuff_tt:0 "Podbij całą Francję."
+ die_albion_tt:0 "Podbij całą Wielką Brytanię i Irlandię Północną."
+ portugal_macau_my_day_tt:0 "Utwórz rząd kolaboracyjny w Makau, który będzie posiadał wszystkie prowincje narodowe Chin i Mandżukuo."

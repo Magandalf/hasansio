@@ -112,7 +112,7 @@ spriteTypes = {
 		looping = yes
 		play_on_show = yes
 		pause_on_loop = 0.0
-		allwaystransparent = yes
+		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}	
 
@@ -124,7 +124,7 @@ spriteTypes = {
 		looping = yes
 		play_on_show = yes
 		pause_on_loop = 0.0
-		allwaystransparent = yes
+		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}		
 	
@@ -176,7 +176,7 @@ spriteTypes = {
 		looping = yes
 		play_on_show = yes
 		pause_on_loop = 0.0
-		allwaystransparent = yes
+		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}
 
@@ -212,6 +212,12 @@ spriteTypes = {
 		name = "GFX_slider_small_bg"
 		texturefile = "gfx/interface/slider_small_bg.dds"
 	}
+
+	spriteType = {
+		name = "GFX_slider_small_focus_bg"
+		texturefile = "gfx/interface/slider_small_focus_bg.dds"
+	}
+
 
 	spriteType = {
 		name = "GFX_wing_reinforce_btn"
@@ -308,7 +314,7 @@ spriteTypes = {
 		looping = yes
 		play_on_show = yes
 		pause_on_loop = 0.0
-		allwaystransparent = yes
+		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}
 
@@ -337,7 +343,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_strategicair_mission_types"
 		textureFile = "gfx/interface/strategicair/mission_types.dds"
-		noOfFrames = 13
+		noOfFrames = 14
 	}
 
 	spriteType = {
@@ -419,7 +425,7 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_wing_types_map"
 		textureFile = "gfx/interface/strategicair/wing_types_map.dds"
-		noOfFrames = 24
+		noOfFrames = 26
 	}
 
 	spriteType = {
@@ -509,7 +515,7 @@ spriteTypes = {
 		looping = yes
 		play_on_show = yes
 		pause_on_loop = 0.0
-		allwaystransparent = yes
+		alwaystransparent = yes
 		effectFile = "gfx/FX/buttonstate_blendframes.lua"
 	}		
 	

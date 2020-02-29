@@ -668,6 +668,7 @@ ideas = {
 	theorist = {
 
 		YUG_ljubomir_maric = {
+			ledger = army
 					
 					
 			allowed = {
@@ -684,6 +685,7 @@ ideas = {
 		}
 
 		YUG_marijan_polic = {
+			ledger = navy
 					
 					
 			allowed = {
@@ -832,6 +834,7 @@ ideas = {
 	high_command = {
 
 		YUG_arso_jovanovic = {
+			ledger = army
 			
 			picture = generic_army_europe_1
 			
@@ -849,6 +852,7 @@ ideas = {
 		}
 	
 		YUG_mihajlo_lukic = {
+			ledger = army
 			
 			picture = generic_army_europe_2
 
@@ -865,6 +869,7 @@ ideas = {
 		}
 
 		YUG_danilo_kalafatovic = {
+			ledger = army
 			
 			picture = generic_army_europe_3
 			
@@ -881,6 +886,7 @@ ideas = {
 		}
 
 		YUG_borivoje_mirkovic = {
+			ledger = air
 			
 			picture = generic_air_europe_2
 			

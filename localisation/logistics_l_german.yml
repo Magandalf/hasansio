@@ -130,3 +130,6 @@
  FUEL_MEDIUM_PRIORITY_DESC:0 "Mittlere Treibstoffpriorität"
  FUEL_HIGH_PRIORITY_DESC:0 "Hohe Treibstoffpriorität"
  LOGISTICS_FUEL_PERCENTAGE:0 "§H$VALUE|0$%§! des Treibstoffbedarfs gedeckt."
+ LOGISTICS_NEED_GARRISON_REINFORCEMENTS_LOW_VALUE:0 "Im Durchschnitt entsenden wir täglich $NEED|^1Y$ Einheiten als Garnisonsverstärkung"
+ LOGISTICS_NEED_GARRISON_REINFORCEMENTS_HIGH_VALUE:0 "Im Durchschnitt entsenden wir täglich $NEED|^0Y$ Einheiten als Garnisonsverstärkung"
+ LOGISTICS_STORAGE_GARRISON_REINFORCEMENT:0 "§TAus Garnisonsverstärkung: $AMOUNT|Y$ Einheiten§!"

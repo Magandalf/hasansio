@@ -20,3 +20,6 @@
  assuming_direct_control_achievement_flag:0 "Принято звание лидера альянса от государств §Y[ENG.GetName]§!, §Y[GER.GetName]§! или §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "Началось Бостонское восстание.\n"
  putting_the_raid_on_the_medway_to_shame_tt:0 "Любое государство:\nПервоначальное государство — [ENG.GetName]\nНе более §Y0 крупных кораблей§!"
+ borbon_stuff_tt:0 "Завоевать всю Францию."
+ die_albion_tt:0 "Завоевать всю Великобританию и Северную Ирландию."
+ portugal_macau_my_day_tt:0 "Создать коллаборационистское правительство в Макао и сделать так, чтобы оно владело всеми национальными территориями Китая и Маньчжоу-го."

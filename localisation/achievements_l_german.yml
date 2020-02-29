@@ -20,3 +20,6 @@
  assuming_direct_control_achievement_flag:0 "Bündnisführung übernommen von §Y[ENG.GetName]§!, §Y[GER.GetName]§! oder §Y[SOV.GetName]§!.\n"
  USA_civil_war_fired_democrats:0 "Die Bostoner Rebellion hat begonnen.\n"
  putting_the_raid_on_the_medway_to_shame_tt:0 "Beliebiges Land:\nDas ursprüngliche Land ist [ENG.GetName]\nHöchstens §Y0 Großkampfschiffe§!"
+ borbon_stuff_tt:0 "Erobern Sie ganz Frankreich."
+ die_albion_tt:0 "Erobern Sie ganz Großbritannien und Nordirland."
+ portugal_macau_my_day_tt:0 "Errichten Sie eine Kollaborationsregierung in Macau und sorgen Sie dafür, dass Sie alle Kerngebiete von China und Mandschukuo besitzt."
